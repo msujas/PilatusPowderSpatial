@@ -1,0 +1,12 @@
+# Nota: C-Order, 1 refers to the Y axis, 2 to the X axis 
+# Calibration done at Wed Aug 10 16:05:29 2022
+poni_version: 2
+Detector: NexusDetector
+Detector_config: {"filename": "../pilatusPixelCorrections.h5"}
+Distance: 0.13901306411052872
+Poni1: 0.20530025067971627
+Poni2: 0.12382468956833702
+Rot1: 3.8687238117079884e-05
+Rot2: 0.00146616751071744
+Rot3: -1.6723285444216043e-09
+Wavelength: 6.943698029978349e-11
